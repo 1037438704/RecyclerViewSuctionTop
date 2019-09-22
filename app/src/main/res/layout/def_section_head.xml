@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dip"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/more"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:gravity="right|center"
+        android:paddingRight="10dp"
+        android:text="more >"
+        android:textColor="#6bf18a"
+        android:textSize="18dp" />
+
+</LinearLayout>
